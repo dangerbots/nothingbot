@@ -10,7 +10,7 @@
         "LEGENDX22"
     ],
     "website": "",
-    "success_url": "https://telegram.dog/LEGENDX22",
+    "success_url": "https://telegram.dog/DANGERPRO_BOT",
     "env": {
         "BOT_TOKEN": {
             "description": "You Telegram Bot Token from @BotFather",
